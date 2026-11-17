@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.DS_Store
+.vscode/
+.idea/
+# Generated analysis figures (a sample is committed in figures/)
+figures/spa_*.png
+!figures/spa_0x8AB0.png
